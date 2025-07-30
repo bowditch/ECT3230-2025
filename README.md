@@ -1,2 +1,6 @@
-# ECT3230-2025
-VR Interactive - Fall 2025 (ECT 3230 and ECT 5230)
+# ECT3230-2025 - Commit Notes
+
+Week 1
+---
+
+* Coming soon
