@@ -1930,8 +1930,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e3e22dcac62301a4e9e1f15fe6ae2b39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ObjectSpawner
-  objectPrefab: {fileID: 0}
-  spawnPoint: {fileID: 0}
+  objectPrefab: {fileID: 2999818725992442763, guid: c3d497ca077c1324ead5e50fdd7ce175, type: 3}
+  spawnPoint: {fileID: 1036729993}
   controllerNode: 5
   spawnCooldown: 1
 --- !u!1 &341203368
@@ -6292,8 +6292,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e3e22dcac62301a4e9e1f15fe6ae2b39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ObjectSpawner
-  objectPrefab: {fileID: 0}
-  spawnPoint: {fileID: 0}
+  objectPrefab: {fileID: 8418226477009738961, guid: 3ecc909ce6d144c4295cffef4fd908b4, type: 3}
+  spawnPoint: {fileID: 1864582712}
   controllerNode: 5
   spawnCooldown: 1
 --- !u!1 &1180711983
@@ -7019,7 +7019,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a07d5d10251915478347131c5a6ebe8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _meshPrefab: {fileID: 8999845180316542267, guid: 2d6ac3b9dfc2b44458e32bd44afc2cfa, type: 3}
+  _meshPrefab: {fileID: 0}
 --- !u!114 &1426388112
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10761,6 +10761,10 @@ PrefabInstance:
     - target: {fileID: 2589571369817754473, guid: 6c3c0bfa92038bd4aa725e80a43ced1e, type: 3}
       propertyPath: m_Name
       value: Bow
+      objectReference: {fileID: 0}
+    - target: {fileID: 2589571369817754473, guid: 6c3c0bfa92038bd4aa725e80a43ced1e, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5854033015894534605, guid: 6c3c0bfa92038bd4aa725e80a43ced1e, type: 3}
       propertyPath: m_LocalPosition.x
